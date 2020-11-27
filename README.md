@@ -4,8 +4,6 @@
 
 I am a Mechatronics Engineering graduate interested in Web Development . I am a fast learner constantly trying to acquire new skills that would help improve my career and attain goals that were previously considered impossible. My area of expertise in include Mean Stack and Ethereum BlockChain.
 
-I gained knowledge in blockchain technologies at Kerala Blockchain Academy as they are the next big thing waiting to happen. My foundation in web development also contributed to me taking this decision. I had been working remotely for Medclick and also have experience working as a full time developer at Phyction Labs and would love to work in these field and gain more knowledge and learn these evolving technologies.
-
 Skills: NodeJS / Angular/ JS / HTML / CSS / MongoDB / Solidity
 
 - 🔭 I’m currently working on Angular 
