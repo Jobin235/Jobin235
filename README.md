@@ -4,7 +4,7 @@
 
 I am a Mechatronics Engineering graduate interested in Web Development . I am a fast learner constantly trying to acquire new skills that would help improve my career and attain goals that were previously considered impossible. My area of expertise include Mean Stack and Ethereum BlockChain Developer.
 
-Skills: NodeJS / Angular/ JS / HTML / CSS / MongoDB / Solidity
+Skills: NodeJS / Angular / JavaScript / HTML / CSS / MongoDB / Solidity
 
 - 🔭 I’m currently working on Angular 
 - 🌱 I’m currently learning ReactJs 
