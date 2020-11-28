@@ -2,7 +2,7 @@
 #### I am Full Stack Developer and Blockchain Enthusiast.
 ![I am Full Stack Developer and Blockchain Enthusiast.](https://www.mindinventory.com/blog/wp-content/uploads/2019/11/hire-full-stack-developer-banner.png)
 
-I am a Mechatronics Engineering graduate interested in Web Development . I am a fast learner constantly trying to acquire new skills that would help improve my career and attain goals that were previously considered impossible. My area of expertise include Mean Stack and Ethereum BlockChain Developer.
+I am a Mechatronics Engineering graduate interested in Web Development . I am a fast learner constantly trying to acquire new skills that would help improve my career and attain goals that were previously considered impossible. My area of expertise include Mean Stack and Ethereum BlockChain Developement.
 
 Skills: NodeJS / Angular / JavaScript / HTML / CSS / MongoDB / Solidity
 
