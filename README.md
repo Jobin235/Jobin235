@@ -7,8 +7,6 @@ An engineering graduate who have been working on web development technologies si
 Skills: NodeJS / Angular / JavaScript / HTML / CSS / MongoDB / Solidity
 
 - 🔭 I’m currently working on ReactJs 
-- 🌱 I’m currently learning React Native 
 - 📫 How to reach me: jobinjoy235@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/jobin0602/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobinjoy.netlify.app/)  
