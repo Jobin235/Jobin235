@@ -4,7 +4,7 @@
 
 An engineering graduate who have been working on web development technologies since 2019 and is a self-motivated and self-taught professional who likes to solve problems. My repertoire includes Javascript and tools such as ReactJS, Express, NodeJS, MongoDB, HTML, CSS,Bootstrap, jQuery and more.
 
-Skills: ReactJS / NodeJS / JavaScript / HTML / CSS / MongoDB / Solidity
+Skills: ReactJS / NodeJS / JavaScript / HTML / CSS / MongoDB 
 
 - 🔭 I’m currently working as Freelancer Developer 
 - 📫 How to reach me: jobinjoy235@gmail.com 
