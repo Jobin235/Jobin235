@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Jobin Joy
 #### I am Full Stack Developer and Blockchain Enthusiast.
-![I am a Full Stack Developer and Blockchain Enthusiast.](https://www.mindinventory.com/blog/wp-content/uploads/2019/11/hire-full-stack-developer-banner.png)
+![I am a Full Stack Developer and Blockchain Enthusiast.](https://www.mindinventory.com/blog/wp-content/uploads/2019/11/hire-full-stack-developer-banner.png](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)
 
 An engineering graduate who have been working on web development technologies since 2019 and is a self-motivated and self-taught professional who likes to solve problems. My repertoire includes Javascript and tools such as ReactJS, Express, NodeJS, MongoDB, HTML, CSS, Bootstrap, jQuery and more.
 
