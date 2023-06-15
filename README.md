@@ -33,7 +33,3 @@
     <img src="https://img.shields.io/badge/Website-1572B6?style=for-the-badge&logo=internet&logoColor=white"> 
   </a>
 </p>
-<!-- Footer -->
-<p align="center">   
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Jobin235.Jobin235&left_color=green&right_color=red" alt="visitor badge"/>
-</p>
