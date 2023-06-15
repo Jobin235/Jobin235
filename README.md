@@ -35,6 +35,7 @@
 </p>
 <!-- Footer -->
 ![Visitor Count](https://profile-counter.glitch.me/Jobin235/count.svg)
+[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 
 <p align="center">   
   <img src="https://visitor-badge.glitch.me/badge?page_id=Jobin235.Jobin235&left_color=green&right_color=red" alt="visitor badge"/>
