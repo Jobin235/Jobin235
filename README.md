@@ -35,5 +35,5 @@
 </p>
 <!-- Footer -->
 <p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jobin0602.jobin0602" alt="visitor badge"/> 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
