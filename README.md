@@ -36,4 +36,6 @@
 <!-- Footer -->
 <p align="center"> 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jobin0602.jobin0602&left_color=green&right_color=red" alt="visitor badge"/>
 </p>
